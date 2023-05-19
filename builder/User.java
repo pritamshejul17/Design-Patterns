@@ -1,7 +1,8 @@
 package builder;
 
 /*
-    This implementation allows for a flexible way of creating User objects with different combinations of fields. It also makes it clear which fields are required (firstName and lastName) and which are optional.
+    This implementation allows for a flexible way of creating User objects with different combinations of fields.
+    It also makes it clear which fields are required (firstName and lastName) and which are optional.
  */
 public class User {
     private final String firstName;
